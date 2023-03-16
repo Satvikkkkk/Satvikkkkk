@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satvik Viraj Chandel</h1>
-<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/796c78d2-583b-4251-a9d3-d8223ecac6a8/ddk0gp0-cd06e94c-c653-4234-bc09-c4087ff58412.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc5NmM3OGQyLTU4M2ItNDI1MS1hOWQzLWQ4MjIzZWNhYzZhOFwvZGRrMGdwMC1jZDA2ZTk0Yy1jNjUzLTQyMzQtYmMwOS1jNDA4N2ZmNTg0MTIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lYiT5wfl6XhUHorB2pDGMvKE96xqRzMDfIOe3rn3a60">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/5fXOP8eurtkAAAAC/mr-robot.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satvikkkkk&label=Profile%20views&color=0e75b6&style=flat" alt="satvikkkkk" /> </p>
 
 - 🌱 I’m currently learning **Android developement, react**
