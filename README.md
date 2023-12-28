@@ -2,8 +2,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/5fXOP8eurtkAAAAC/mr-robot.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satvikkkkk&label=Profile%20views&color=0e75b6&style=flat" alt="satvikkkkk" /> </p>
 
-- 🌱 I’m currently learning **Android developement, react**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/satvikvirajchandel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satvikvirajchandel" height="30" width="40" /></a>
